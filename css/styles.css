@@ -1,0 +1,10 @@
+#result {
+  display: none;
+}
+.forList{
+ color: blue;
+ cursor: pointer;
+}
+.forList {
+ text-decoration: underline;
+}
